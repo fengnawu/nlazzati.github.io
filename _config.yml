@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Natalia Lazzati Academic Page"
 title_separator          : "|"
 name                     : &name "Natalia Lazzati"
 
-description              : &description "NL's academic page"
+description              : &description "Natalia Lazzati's Academic Page"
 
-url                      : https://kmlv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ucscecon100a.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
-repository               : "kmlv/kmlv.github.io"
+repository               : "fengnawu/ucscecon100a.github.io"
 
 teaser                   : 3953273590_704e3899d5_m.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
@@ -90,10 +90,10 @@ author:
   name             : "Natalia Lazzati"
   avatar           : "https://wcms-prod-web-4.ucsc.edu/cache/directory/nlazzati.jpg"
   bio              : "Assistant Professor of Economics Department at the University of California, Santa Cruz"
-  location         :
+  location         : "Santa Cruz, California"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=KB5fCHgAAAAJ&hl=en"
-  email            : nlazzati@ucsc.edu
+  email            : "nlazzati@ucsc.edu"
   github           : ""
   uri              :
   bitbucket        :
