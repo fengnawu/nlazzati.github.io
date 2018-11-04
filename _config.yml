@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "|"
-name                     : &name "Kristian López Vargas"
+name                     : &name "Natalia Lazzati"
 
-description              : &description "KLO's academic page"
+description              : &description "NL's academic page"
 
-url                      : https://kmlv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nlazzati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
@@ -56,14 +56,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :  https://kmlv.github.io/google3a5afedca7169340.html
+google_site_verification :  
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &klo_pez
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -74,7 +74,7 @@ og_image                 :  # Open Graph/Twitter default site image
 
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : Kristian López Vargas # If the user or organization name differs from the site's name
+  name                   : Natalia Lazzati # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
