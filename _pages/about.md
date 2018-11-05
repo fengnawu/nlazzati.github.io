@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kristian López Vargas"
+title: "Natalia Lazzati"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-Assistant professor of economics at the University of California, Santa Cruz.
-My work is in microeconomics, behavioral economics and experimental economics.
+Assistant professor of Eonomics at the University of California, Santa Cruz.
+My area of expertise is Economics and Experimental Economics with research interests in Microeconomics theory, Industry organization, Econometrics, and Experimental Econ.
 
-<mark>!!</mark>  This site is still under construction as of April 2018.
+<mark>!!</mark>  This site is still under construction as of November 2018.
 
 ## [Research](research)
 
