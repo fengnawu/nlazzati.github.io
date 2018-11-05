@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalia Lazzati Academic Page"
+title                    : "Natalia Lazzati / Academic Page"
 title_separator          : "|"
 name                     : &name "Natalia Lazzati"
 
@@ -90,11 +90,11 @@ author:
   name             : "Natalia Lazzati"
   avatar           : "https://wcms-prod-web-4.ucsc.edu/cache/directory/nlazzati.jpg"
   bio              : "Assistant Professor of Economics Department at the University of California, Santa Cruz"
-  location         : "Santa Cruz, California"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=KB5fCHgAAAAJ&hl=en"
   email            : "nlazzati@ucsc.edu"
-  github           : ""
+  github           : "nlazzati.github.io"
   uri              :
   bitbucket        :
   codepen          :
