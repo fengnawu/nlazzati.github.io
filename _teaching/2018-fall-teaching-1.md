@@ -2,13 +2,13 @@
 title: "Intermediate Microeconomics at UCSC"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-fall-teaching-1
+permalink: /teaching/2018-fall-teaching-1
 venue: "UCSC, Department of Economics"
-date: 2017-09-01
+date: 2018-11-05
 location: "Santa Cruz, CA"
 ---
 
-[Check my awesome notes here https://kmlv.github.io/Econ100A_F17/](https://kmlv.github.io/Econ100A_F17/)
+[Check my awesome notes here https://ucscecon100a.github.io/Econ100A_F18/](https://ucscecon100a.github.io/Econ100A_F18/)
 
 <!-- Heading 1 -->
 <!-- ====== -->
