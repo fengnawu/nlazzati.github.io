@@ -194,6 +194,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _talks
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: notes
       author_profile: true
       share: true
 
