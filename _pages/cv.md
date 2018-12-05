@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: "https://people.ucsc.edu/~nlazzati/CV/CV%20-%20Natalia%20Lazzati.pdf"
   - /resume
 ---
 
