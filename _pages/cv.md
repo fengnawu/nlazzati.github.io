@@ -206,24 +206,24 @@ University Service
 
 Ph.D. Thesis Committee Member
 =======================
-**University of California, Santa Cruz**
+University of California, Santa Cruz
     * Rachel Zhang (Dissertation and Exam Committee Member)
 
-**University of Michigan**
+University of Michigan
     * Matthew Ryan Backus (Assistant Professor at Cornell University) (Dissertation Committee Member)
     * Dan Jaqua (Assistant Professor at Albion College) (Dissertation Committee Member)
 
 Teaching
 =======================
 **Ph.D. Level**
-* University of California, Santa Cruz
+University of California, Santa Cruz
     * Advanced Microeconomic Theory [Econ 204A], Fall 2015, 2016, 2017
 
-* University of Michigan
+University of Michigan
     * Microeconomic Theory [Econ 601], ½ Fall 2011, 2012, 2013
     * Industrial Organization, [Econ 631], ½ Fall 2011, 2012, 2013
 
-* University of Arizona
+University of Arizona
     * Microeconomic Theory I [Econ 501A], Fall 2010
     * Mathematics for Economics [Econ 519], Summer 2010
 
