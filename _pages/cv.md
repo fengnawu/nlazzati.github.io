@@ -100,36 +100,36 @@ Economic Theory and Econometrics
 
 *  Co-Diffusion of Technologies in Social Networks, **Under Review**
 
-* A Note on Identification of Discrete Choice Models for Bundles and Binary Games (with Jeremy Fox), Quantitative Economics, 2017, 8, 1021–1036
+* A Note on Identification of Discrete Choice Models for Bundles and Binary Games (with Jeremy Fox), **Quantitative Economics**, 2017, 8, 1021–1036
 
-* Endogenous Information Acquisition in Bayesian Games with Strategic Complementarities (with Rabah Amir), Journal of Economic Theory (JET), 2016, 163, 684–698
+* Endogenous Information Acquisition in Bayesian Games with Strategic Complementarities (with Rabah Amir), **Journal of Economic Theory (JET)**, 2016, 163, 684–698
  
-* Hot Spot Policing: A Study of Place-Based Strategies for Crime Prevention (with Amilcar Menichini), Southern Economic Journal, 2016, 82, 893–913
+* Hot Spot Policing: A Study of Place-Based Strategies for Crime Prevention (with Amilcar Menichini), **Southern Economic Journal**, 2016, 82, 893–913
 
-* Treatment Response with Social Interactions: Partial Identification via Monotone Comparative Statics, Quantitative Economics, 2015, 6, 49–83
+* Treatment Response with Social Interactions: Partial Identification via Monotone Comparative Statics, **Quantitative Economics**, 2015, 6, 49–83
 
-* A Nearly Optimal Auction for an Uninformed Seller (with Matt V Essen), Economics Letters, 2014, 122, 396–399
+* A Nearly Optimal Auction for an Uninformed Seller (with Matt V Essen), **Economics Letters**, 2014, 122, 396–399
  
-* Comparison of Equilibrium Actions and Payoffs across Players in Games of Strategic Complements, Economic Theory, 2013, 54, 777–788
+* Comparison of Equilibrium Actions and Payoffs across Players in Games of Strategic Complements, **Economic Theory**, 2013, 54, 777–788
 
-* Out-of-Equilibrium Performance of Three Lindahl Mechanisms: Experimental Evidence (with Matt V Essen and Mark Walker), Games and Economic Behavior, 2012, 74, 366–381
+* Out-of-Equilibrium Performance of Three Lindahl Mechanisms: Experimental Evidence (with Matt V Essen and Mark Walker), **Games and Economic Behavior**, 2012, 74, 366–381
 
-* Network Effects, Market Structure and Industry Performance (with Rabah Amir), Journal of Economic Theory (JET), 2011, 146, 2389–2419
+* Network Effects, Market Structure and Industry Performance (with Rabah Amir), **Journal of Economic Theory (JET)**, 2011, 146, 2389–2419
 
 
 Financial Economics
-* A Dynamic Model of Firm Valuation (with Amilcar Menichini), The Financial Review, 2018, 53, 499–531
+* A Dynamic Model of Firm Valuation (with Amilcar Menichini), **The Financial Review**, 2018, 53, 499–531
 
-* A Dynamic Model of the Firm: Structural Explanations of Key Empirical Findings (with Amilcar Menichini), The Financial Review, 2015, 50, 341–361
+* A Dynamic Model of the Firm: Structural Explanations of Key Empirical Findings (with Amilcar Menichini), **The Financial Review**, 2015, 50, 341–361
 
-* A Dynamic Approach to the Dividend Discount Model (with Amilcar Menichini), Review of Pacific Basin Financial Markets and Policies, 2015, 18, 1–36
+* A Dynamic Approach to the Dividend Discount Model (with Amilcar Menichini), **Review of Pacific Basin Financial Markets and Policies**, 2015, 18, 1–36
 
 
 
 Invited Seminar Presentations and Conferences
 ======
 * 2018-2019
-   *  Rice University
+   * Rice University
 
 * 2017-2018 
    * Conference in honor of Mark Walker (University of Arizona), Econometric Society North American Summer Meeting (UC Davis)
