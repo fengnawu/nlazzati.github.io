@@ -8,7 +8,7 @@ date: 2018-12-14
 location: "Santa Cruz, CA"
 ---
 
-[Check my awesome notes here https://fengnawu.github.io/econ-final-18/](https://fengnawu.github.io/econ-final-18/)
+[Check my awesome notes here https://fengnawu.github.io/econ100a-winter2019/](https://fengnawu.github.io/econ100a-winter2019/)
 
 <!-- Heading 1 -->
 <!-- ====== -->
