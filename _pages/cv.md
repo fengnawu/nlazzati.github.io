@@ -94,23 +94,23 @@ Grants
 Publications and Papers Under Review
 =======================
 Economic Theory and Econometrics 
-* Nonparametric Analysis of Monotone Choice (with John Quah and Koji Shirai), Under Review
+* Nonparametric Analysis of Monotone Choice (with John Quah and Koji Shirai), **Under Review**
 
 * Strategic Complementarity in Spousal Smoking Behavior (Empirical Application of “Nonparametric Analysis of Monotone Choice”) (with John Quah and Koji Shirai)
 
-*  Co-Diffusion of Technologies in Social Networks, Under Review
+*  Co-Diffusion of Technologies in Social Networks, **Under Review**
 
 * A Note on Identification of Discrete Choice Models for Bundles and Binary Games (with Jeremy Fox), Quantitative Economics, 2017, 8, 1021–1036
 
 * Endogenous Information Acquisition in Bayesian Games with Strategic Complementarities (with Rabah Amir), Journal of Economic Theory (JET), 2016, 163, 684–698
  
-*Hot Spot Policing: A Study of Place-Based Strategies for Crime Prevention (with Amilcar Menichini), Southern Economic Journal, 2016, 82, 893–913
+* Hot Spot Policing: A Study of Place-Based Strategies for Crime Prevention (with Amilcar Menichini), Southern Economic Journal, 2016, 82, 893–913
 
 * Treatment Response with Social Interactions: Partial Identification via Monotone Comparative Statics, Quantitative Economics, 2015, 6, 49–83
 
 * A Nearly Optimal Auction for an Uninformed Seller (with Matt V Essen), Economics Letters, 2014, 122, 396–399
  
-*Comparison of Equilibrium Actions and Payoffs across Players in Games of Strategic Complements, Economic Theory, 2013, 54, 777–788
+* Comparison of Equilibrium Actions and Payoffs across Players in Games of Strategic Complements, Economic Theory, 2013, 54, 777–788
 
 * Out-of-Equilibrium Performance of Three Lindahl Mechanisms: Experimental Evidence (with Matt V Essen and Mark Walker), Games and Economic Behavior, 2012, 74, 366–381
 
@@ -182,15 +182,13 @@ University Service
 
 **Service to the Department**
 * 2017-2018 
-    * Ph.D. Committee: recruiting new Ph.D. students, advising Ph.D. students on the job market, research
-awards
+    * Ph.D. Committee: recruiting new Ph.D. students, advising Ph.D. students on the job market, research awards
     * Mock interviews for Ph.D. students on the job market
     * Member of the Ph.D. prelim committee for Economic Theory: making questions and grading
     * Steering committee member of CAFIN
 * 2016-2017 
     * Member & Diversity Liaison, Search Committee for Assistant Professor in Applied Econometrics/Econometrics
-    * Talk for Fall "Economics Faculty & Undergraduate Event" (Interactions in Economics: Bringing together
-theory and data)
+    * Talk for Fall "Economics Faculty & Undergraduate Event" (Interactions in Economics: Bringing together theory and data)
     * Ph.D. Committee: recruiting new Ph.D. students, advising Ph.D. students on the job market, research awards
     * Featured Faculty Speaker for "Alumni Weekend"
     * Mock interviews for Ph.D. students on the job market
@@ -203,7 +201,7 @@ theory and data)
     * Mock interviews for Ph.D. students on the job market
     * Member of the Ph.D. prelim committee for Economic Theory: making questions and grading
 
-**Service to the University**
+* Service to the University
     * 2017-2018 Stevenson Commencement
 
 Ph.D. Thesis Committee Member
