@@ -91,46 +91,149 @@ Grants
 * 2009
    *  Co-Principal Investigator, The NET Institute Grant, $3,000 (Summer)
 
-
-Research, Teaching Interests
-======
-* Experimental Economics
-* Behavioral Economics
-* Microeconomics
-
-
-Research / Publications
+Publications and Papers Under Review
 =======================
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Economic Theory and Econometrics 
+* Nonparametric Analysis of Monotone Choice (with John Quah and Koji Shirai), Under Review
+
+* Strategic Complementarity in Spousal Smoking Behavior (Empirical Application of “Nonparametric Analysis of Monotone Choice”) (with John Quah and Koji Shirai)
+
+*  Co-Diffusion of Technologies in Social Networks, Under Review
+
+* A Note on Identification of Discrete Choice Models for Bundles and Binary Games (with Jeremy Fox), Quantitative Economics, 2017, 8, 1021–1036
+
+* Endogenous Information Acquisition in Bayesian Games with Strategic Complementarities (with Rabah Amir), Journal of Economic Theory (JET), 2016, 163, 684–698
+ 
+*Hot Spot Policing: A Study of Place-Based Strategies for Crime Prevention (with Amilcar Menichini), Southern Economic Journal, 2016, 82, 893–913
+
+* Treatment Response with Social Interactions: Partial Identification via Monotone Comparative Statics, Quantitative Economics, 2015, 6, 49–83
+
+* A Nearly Optimal Auction for an Uninformed Seller (with Matt V Essen), Economics Letters, 2014, 122, 396–399
+ 
+*Comparison of Equilibrium Actions and Payoffs across Players in Games of Strategic Complements, Economic Theory, 2013, 54, 777–788
+
+* Out-of-Equilibrium Performance of Three Lindahl Mechanisms: Experimental Evidence (with Matt V Essen and Mark Walker), Games and Economic Behavior, 2012, 74, 366–381
+
+* Network Effects, Market Structure and Industry Performance (with Rabah Amir), Journal of Economic Theory (JET), 2011, 146, 2389–2419
 
 
-  
-Talks, Conferences, and Workshops
+Financial Economics
+* A Dynamic Model of Firm Valuation (with Amilcar Menichini), The Financial Review, 2018, 53, 499–531
+
+* A Dynamic Model of the Firm: Structural Explanations of Key Empirical Findings (with Amilcar Menichini), The Financial Review, 2015, 50, 341–361
+
+* A Dynamic Approach to the Dividend Discount Model (with Amilcar Menichini), Review of Pacific Basin Financial Markets and Policies, 2015, 18, 1–36
+
+
+
+Invited Seminar Presentations and Conferences
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* 2018-2019
+   *  Rice University
 
-Academic Referee Work
-======
-  * 
+* 2017-2018 
+   * Conference in honor of Mark Walker (University of Arizona), Econometric Society North American Summer Meeting (UC Davis)
+
+* 2016-2017 
+   * University of Arizona, University of Southern California, Stanford University (Graduate School of Business), UC Davis (Theory), Conference on Econometrics and Models of Social Interactions (coorganized by CeMMAP and Vanderbilt University)
+
+* 2015-2016 
+   * Northwestern University (one week visiting scholar), UC San Diego (joint seminar Theory and Econometrics), SWET Conference at UC Riverside
+
+* 2014-2015 
+   * UC Berkeley, UC Santa Cruz (Theory), UC Santa Cruz (Econometrics)
+   
+* 2013-2014 
+   * Cornell University, University of Pittsburg, Binghamton University, Penn State University, UC Davis, Naval Postgraduate School, University of Michigan (STIET), ISNIE Conference, Econometric Society Asian Meeting (Singapore)
+
+* 2012-2013 
+   * University of Kansas, Econometric Society Asian Meeting (India), CIREQ CeMMAP Conference on Incomplete Models (University of Montreal)
+
+* 2011-2012 
+   * Caltech, NYU Stern, Cornell University, University of Michigan, Indiana University, University of Connecticut, University of Warwick, University of Notre Dame, Universidad Carlos III de Madrid, University of Zurich, Conference on Econometrics Analysis of Social Interactions (Northwestern University)
+
+* 2011 & Before 
+   * UC San Diego, Brown Bag at Arizona State University, SWET Conference at Caltech, 6th Annual International IO Conference
+
+
+Referee Service
+=======================
+* 2017-2018 
+    * Journal of Economic Theory (three times), Economic Theory (twice), The Financial Review, Mathematical Social Sciences, Journal of Business & Economic Statistics, Southern Economic Journal (twice), Operations Research, Economics Letters
+
+* 2016-2017 
+    * Review of Economic Studies (twice), Journal of Economic Theory, Economic Journal, Journal of Econometrics, NSF Proposal Review, Quantitative Economics (twice), Games and Economic Behavior
+
+* 2015-2016 
+    * Review of Economic Studies, Journal of Economic Theory, Journal of Econometrics (twice), Management Science, Games and Economic Behavior
+
+* 2014-2015 
+    * Journal of Political Economy, Journal of Econometrics, Economic Theory, Journal of Mathematical Economics, Games and Economic Behavior
+
+* 2011-2014 
+    * Review of Economic Studies, Journal of Economic Theory, Games and Economic Behavior, Economic Theory, Journal of Public Economic Theory, Journal of Econometrics, Quantitative Economics, Review of Network Economics, The Manchester School, MIT Press
   
+University Service
+=======================
+**Service to the Division**
+
+* 2015-2016 
+    * Keynote speaker at Research Frontiers Evening
+
+**Service to the Department**
+* 2017-2018 
+    * Ph.D. Committee: recruiting new Ph.D. students, advising Ph.D. students on the job market, research
+awards
+    * Mock interviews for Ph.D. students on the job market
+    * Member of the Ph.D. prelim committee for Economic Theory: making questions and grading
+    * Steering committee member of CAFIN
+* 2016-2017 
+    * Member & Diversity Liaison, Search Committee for Assistant Professor in Applied Econometrics/Econometrics
+    * Talk for Fall "Economics Faculty & Undergraduate Event" (Interactions in Economics: Bringing together
+theory and data)
+    * Ph.D. Committee: recruiting new Ph.D. students, advising Ph.D. students on the job market, research awards
+    * Featured Faculty Speaker for "Alumni Weekend"
+    * Mock interviews for Ph.D. students on the job market
+    * Member of the Ph.D. prelim committee for Economic Theory: making questions and grading
+    * Talk for the "Alumni Event"
+* 2015-2016 
+    * Joint talk with Kristian Lopez-Vargas to Ph.D. students on the job market
+    * Library Liaison for the Economics Department
+    * Recruiting committee for Visiting Professor in Finance and Econometrics
+    * Mock interviews for Ph.D. students on the job market
+    * Member of the Ph.D. prelim committee for Economic Theory: making questions and grading
+
+**Service to the University**
+    * 2017-2018 Stevenson Commencement
+
+Ph.D. Thesis Committee Member
+=======================
+**University of California, Santa Cruz**
+    * Rachel Zhang (Dissertation and Exam Committee Member)
+
+**University of Michigan**
+    * Matthew Ryan Backus (Assistant Professor at Cornell University) (Dissertation Committee Member)
+    * Dan Jaqua (Assistant Professor at Albion College) (Dissertation Committee Member)
+
 Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+=======================
+**Ph.D. Level**
+* University of California, Santa Cruz
+    * Advanced Microeconomic Theory [Econ 204A], Fall 2015, 2016, 2017
 
+* University of Michigan
+    * Microeconomic Theory [Econ 601], ½ Fall 2011, 2012, 2013
+    * Industrial Organization, [Econ 631], ½ Fall 2011, 2012, 2013
 
-Service 
-======
-* Keynote speaker at Research Frontiers Evening (2015 - 2016)
+* University of Arizona
+    * Microeconomic Theory I [Econ 501A], Fall 2010
+    * Mathematics for Economics [Econ 519], Summer 2010
 
-Other
-======
-* 
+Master Level
+* University of Michigan
+    * Applied Microeconomic Theory [Econ 501], Fall 2011, 2012, 2013
 
+Undergraduate Level
+* University of California, Santa Cruz
+    * Intermediate Microeconomics [Econ 100A], Fall 2015, 2016, 2017, Winter 2018
+    * Industrial Organization [Econ 160A], Winter 2017, 2018
